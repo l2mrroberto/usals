@@ -1,5 +1,6 @@
-Usals
+Usals motor move
 ============
+(c) 2022 TVEpg.eu (l2mrroberto@gmail.com)
 
 A C program to usals digital satellite cards.
 
