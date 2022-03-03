@@ -4,7 +4,7 @@ Usals motor move
 
 A C program to usals motor move for digital satellite cards from console.
 
-    Usals tool for the Linux DVB S2 API
+    Usals motor move tool for the Linux DVB S2 API
 
     usage: usals
     -a number : adapter number (default 0)
