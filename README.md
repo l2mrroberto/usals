@@ -2,7 +2,7 @@ Usals motor move
 ============
 (c) 2022 TVEpg.eu (l2mrroberto@gmail.com)
 
-A C program to usals motor move for digital satellite cards.
+A C program to usals motor move for digital satellite cards from console.
 
     Usals tool for the Linux DVB S2 API
 
